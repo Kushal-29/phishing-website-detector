@@ -1,0 +1,63 @@
+**requirements.txt for Phishing Website Detection Tool**
+
+---
+
+To ensure your Python environment has all necessary packages for the project, create a `requirements.txt` file with the following content:
+
+```
+pandas
+scikit-learn
+joblib
+tk
+```
+
+---
+
+### Explanation:
+
+- **pandas**: For data handling and manipulation.
+- **scikit-learn**: For machine learning model training and prediction.
+- **joblib**: For saving and loading the trained ML model.
+- **tk**: Tkinter GUI library (usually comes pre-installed with Python on Windows; including here for completeness).
+
+---
+
+### How to use `requirements.txt`:
+
+1. Save the above lines in a file named `requirements.txt` in your project folder.
+2. Open your terminal or VS Code terminal.
+3. Run the command:
+
+```bash
+pip install -r requirements.txt
+```
+
+This will install all required packages automatically.
+
+---
+
+If you face any issues with Tkinter installation, note that on Windows it is usually included with Python. If missing, you may need to reinstall Python with the Tkinter option enabled.
+
+---
+
+Let me know if you need help setting up the environment or running the project!
+
+
+### For all Cases
+
+URL
+
+Output Message
+
+http://secure-login.com              Phishing (Rule-based)
+
+http://example.com                  Legitimate
+
+http://free-update-account.com      Phishing (Rule-based)
+
+https://trustedsite.org             Legitimate
+
+http://paypal-secure-login.com      Phishing (ML-based)
+
+https://google.com                  Legitimate
+
