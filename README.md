@@ -27,4 +27,4 @@ A sophisticated web application that identifies phishing websites using a hybrid
    ```bash
    git clone https://github.com/yourusername/phishing-website-detector.git
    cd phishing-website-detector# phishing-website-detector
-A powerful Flask-based web application that detects phishing websites using a hybrid approach combining rule-based heuristics and machine learning (Random Forest classifier). Provides real-time URL analysis with a modern, responsive interface.
+A powerful Flask-based web application that detects phishing websites using a hybrid approach combining rule-based heuristics and machine learning (Random Forest classifier). Provides real-time URL analysis with a modern, responsive interface.   
