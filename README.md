@@ -6,7 +6,7 @@ A sophisticated web application that identifies phishing websites using a hybrid
 ![Flask](https://img.shields.io/badge/Flask-2.0%2B-lightgrey)
 ![Machine Learning](https://img.shields.io/badge/ML-Random%20Forest-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
-
+     
 ## 🌟 Features
 
 - **Hybrid Detection System**: Combines rule-based heuristics with ML classification
