@@ -67,7 +67,7 @@ venv\Scripts\activate      # Windows
 pip install -r requirements.txt
 
 🔹 Step 4 – Run the app
-python 
+python phishing_detector.py
 
 🔹 Step 5 – Open in Browser
 
