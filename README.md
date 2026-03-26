@@ -1,8 +1,8 @@
-# Phishing Website Detection Tool 🔍🛡️
+# Phishing Website Detection Tool 🔍🛡️  
 
 A sophisticated web application that identifies phishing websites using a hybrid detection system combining rule-based analysis and machine learning.   
-
-![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
+  
+![Python](https://img.shields.io/badge/Python-3.6%2B-blue)   
 ![Flask](https://img.shields.io/badge/Flask-2.0%2B-lightgrey)
 ![Machine Learning](https://img.shields.io/badge/ML-Random%20Forest-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
