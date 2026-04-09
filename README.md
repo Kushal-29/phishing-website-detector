@@ -6,21 +6,21 @@ A sophisticated web application that identifies phishing websites using a hybrid
 ![Flask](https://img.shields.io/badge/Flask-2.0%2B-lightgrey)
 ![Machine Learning](https://img.shields.io/badge/ML-Random%20Forest-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
-     
+  
 🧠 Problem Statement
 
 Phishing attacks are one of the most common online threats used to steal sensitive information like login credentials, banking details, and personal data. Detecting phishing websites accurately and efficiently can help protect users and organizations.
 
 This project builds a model that classifies website URLs as phishing or legitimate, and exposes it through a simple web UI for real-time prediction.
 
-🚀 Features
+🚀 Features 
 
 ✔ Uses real URL feature data to train a model
 ✔ Predicts whether a website is phishing or safe
 ✔ Flask web interface for user input
 ✔ Interactive UI to test new URLs
 ✔ Easy to use and deploy
-
+ 
 📊 Tech Stack
 Layer	Tools / Libraries
 Backend	Python, Flask
@@ -28,9 +28,9 @@ ML	scikit-learn, pandas, NumPy
 Model	RandomForestClassifier (recommended)
 UI	HTML, CSS, Bootstrap
 Deployment	Local / Flask server
-
-📥 Dataset
-
+ 
+📥 Dataset 
+ 
 The dataset comes from a public URL classification dataset commonly used for phishing detection research. It contains:
 
 ✔ URL strings
