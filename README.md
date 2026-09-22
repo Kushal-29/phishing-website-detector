@@ -1,20 +1,20 @@
 # Phishing Website Detection Tool 🔍🛡️ 
 
 A sophisticated web application that identifies phishing websites using a hybrid detection system combining rule-based analysis and machine learning.   
-
+                                          
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue)    
 ![Flask](https://img.shields.io/badge/Flask-2.0%2B-lightgrey) 
 ![Machine Learning](https://img.shields.io/badge/ML-Random%20Forest-orange)  
 ![License](https://img.shields.io/badge/License-MIT-green)   
-    
+                            
 🧠 Problem Statement
    
 Phishing attacks are one of the most common online threats used to steal sensitive information like login credentials, banking details, and personal data. Detecting phishing websites accurately and efficiently can help protect users and organizations.
 
 This project builds a model that classifies website URLs as phishing or legitimate, and exposes it through a simple web UI for real-time prediction.
-
+                       
 🚀 Features 
-
+                        
 ✔ Uses real URL feature data to train a model
 ✔ Predicts whether a website is phishing or safe
 ✔ Flask web interface for user input
@@ -61,8 +61,8 @@ cd phishing-website-detector
 🔹 Step 2 – Create virtual environment (optional but recommended)            
 python3 -m venv venv 
 source venv/bin/activate   # Mac/Linux                
-venv\Scripts\activate      # Windows                
- 
+venv\Scripts\activate      # Windows                       
+                   
 🔹 Step 3 – Install dependencies               
 pip install -r requirements.txt   
  
